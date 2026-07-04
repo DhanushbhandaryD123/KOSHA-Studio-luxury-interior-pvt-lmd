@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 34" fill="none">
+  <rect x="1.5" y="1.5" width="31" height="31" stroke="#FAF8F4" stroke-width="1.4"/>
+  <rect x="6.5" y="6.5" width="21" height="21" stroke="#C3AC86" stroke-width="1"/>
+  <path d="M17 1.5 V10 M17 24 V32.5" stroke="#FAF8F4" stroke-width="1.4"/>
+  <text x="46" y="24.5" fill="#FAF8F4" font-family="Marcellus, Georgia, serif" font-size="21" letter-spacing="7">KOSHA</text>
+</svg>
